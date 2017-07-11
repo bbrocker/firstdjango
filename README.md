@@ -1,2 +1,2 @@
 # firstdjango
-django inventory app
+django inventory app (minus sqlite3 database)
