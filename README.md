@@ -1,0 +1,2 @@
+# firstdjango
+django inventory app
